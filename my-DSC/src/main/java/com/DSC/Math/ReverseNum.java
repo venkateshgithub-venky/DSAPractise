@@ -15,7 +15,7 @@ public class ReverseNum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Enter Number to reverse");
+		System.out.println("Enter Number to reverse:");
 		Scanner sc=new Scanner(System.in);
 		int num=sc.nextInt();
 		sc.close();
