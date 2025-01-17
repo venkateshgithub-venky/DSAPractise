@@ -14,7 +14,6 @@ public class CountDigits {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
 		System.out.println("Enter number to count digits of a number:");
 		Scanner sc= new Scanner(System.in);
 		int num=sc.nextInt();
@@ -31,5 +30,4 @@ public class CountDigits {
 		}
 		return count;		
 	}
-
 }
